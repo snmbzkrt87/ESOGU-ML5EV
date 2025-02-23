@@ -1,4 +1,4 @@
-# ESOGU-ML5EV Cleaned Dataset
+# ESOGU-ML5EV Dataset
 
 This repository provides the **ESOGU-ML5EV** dataset, which contains cleaned measurement data for an L5-class electric vehicle designed for urban cargo transportation. The data was collected under various speeds, load conditions, and driving dynamics.
 
